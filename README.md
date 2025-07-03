@@ -38,3 +38,6 @@ To run this project locally:
    ```bash
    git clone https://github.com/George-Jesse/covid19-data-analysis.git
    cd covid19-data-analysis
+pip install -r requirements.txt(Install dependencies)
+jupyter notebook(Launch Jupyter Notebook)
+
