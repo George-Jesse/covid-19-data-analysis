@@ -32,6 +32,13 @@ Columns used:** `Date_reported`, `Country`, `New_cases`, `Cumulative_cases`, `Ne
 - 🗺️ Interactive maps of total cases and deaths
 - 📉 Rolling averages and trend smoothing
 
+## 📈 Sample Visualization
+
+![Choropleth Map](Covid19_deaths_by_country.png)
+![Choropleth Map](covid19_cases_by_country.png)
+
+
+
 To run this project locally:
 
 1. Clone the repository:
