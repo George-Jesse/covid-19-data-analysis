@@ -37,6 +37,9 @@ Columns used:** `Date_reported`, `Country`, `New_cases`, `Cumulative_cases`, `Ne
 ![Choropleth Map](Covid19_deaths_by_country.png)
 ![Choropleth Map](covid19_cases_by_country.png)
 
+📄 [View static notebook output (HTML)](covid19_global_analysis.html)
+
+
 
 
 To run this project locally:
